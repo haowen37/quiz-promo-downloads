@@ -1,0 +1,119 @@
+{
+  "imageCount": 19,
+  "files": [
+    {
+      "file": "images/academic/01.png",
+      "width": 1086,
+      "height": 1448,
+      "sha256": "e820a975ec52ee8fe9332484ab74253e8da3ef822a747393ff8f42bc4341523b"
+    },
+    {
+      "file": "images/academic/02.png",
+      "width": 1086,
+      "height": 1448,
+      "sha256": "e729ef6493caa8cf7768fec747a786de22ead9560cddfedc33aa924c048052c0"
+    },
+    {
+      "file": "images/academic/03.png",
+      "width": 1086,
+      "height": 1448,
+      "sha256": "3fb78bcee57a45f4cb9d4dec1fbe8d7ceacdec17a6fa905201af480ff72e7524"
+    },
+    {
+      "file": "images/academic/04.png",
+      "width": 1086,
+      "height": 1448,
+      "sha256": "95870dfbca0cef1dc5cfc1fc714b1d489a2372d8da80234636af663842b27ed4"
+    },
+    {
+      "file": "images/history/01.png",
+      "width": 1080,
+      "height": 1440,
+      "sha256": "86db643c1ddee26c758549970f626a2dd24a17b20f1d9c758b052d1e05f09190"
+    },
+    {
+      "file": "images/history/02.png",
+      "width": 1080,
+      "height": 1440,
+      "sha256": "e72e5868ae2ab7149ed10c8c034af2cb7635d358db3e35591f08baceb5a31eed"
+    },
+    {
+      "file": "images/perfume/01.png",
+      "width": 1086,
+      "height": 1448,
+      "sha256": "d2c2a213914fb0551977c0cd0be7960d04dce46c99439c890c965a56f69e8eca"
+    },
+    {
+      "file": "images/perfume/02.png",
+      "width": 1086,
+      "height": 1448,
+      "sha256": "1787df85e35f9fb30fc55f193bea95399b3379c49907982a9f5a3871122590fe"
+    },
+    {
+      "file": "images/perfume/03.png",
+      "width": 1086,
+      "height": 1448,
+      "sha256": "266ec6accf678d262b91980494ce5270a9424801355512cd9ff24ca3b3bab3d4"
+    },
+    {
+      "file": "images/city/01.png",
+      "width": 1080,
+      "height": 1440,
+      "sha256": "0eba422bbbef18c3f55d9cf2d741de28635ef1058d53a0238f073ad0c4f49b5e"
+    },
+    {
+      "file": "images/city/02.png",
+      "width": 1080,
+      "height": 1440,
+      "sha256": "357d5e0f460786b37660be5cd28850186f4cbb945c3ef14d536ad6330bfe5fd2"
+    },
+    {
+      "file": "images/city/03.png",
+      "width": 1080,
+      "height": 1440,
+      "sha256": "fb67bc99aee1a527a680304d07c0f2af0333a26a279786e21ec625a283b11c42"
+    },
+    {
+      "file": "images/culture/01.png",
+      "width": 1086,
+      "height": 1448,
+      "sha256": "fb4d3115f67bece11b1eb9b9a2d266f7092b134eb0897102f849ef5b8382a251"
+    },
+    {
+      "file": "images/culture/02.png",
+      "width": 1086,
+      "height": 1448,
+      "sha256": "e88485084f32e4a0bd389415f24a72053adec14458bbaadc2c877229c3e19df1"
+    },
+    {
+      "file": "images/culture/03.png",
+      "width": 1086,
+      "height": 1448,
+      "sha256": "9a013ddf9a7ba12fa7bff17631e9508402b2865bf1ac0ab5f6e10884534d4068"
+    },
+    {
+      "file": "images/culture/04.png",
+      "width": 1086,
+      "height": 1448,
+      "sha256": "056191b660dd64c213b945e8c2fb74b764572eeffea18a7726ce613f9b6e096b"
+    },
+    {
+      "file": "images/abo/01.png",
+      "width": 1086,
+      "height": 1448,
+      "sha256": "bfc4ec4896d27c5e1a0830912a1494f2cac9cce6b39091e9ddeea7a3bc4ab86f"
+    },
+    {
+      "file": "images/abo/02.png",
+      "width": 1086,
+      "height": 1448,
+      "sha256": "ea16827ba24defdc6c8457462087d2eb2f0fe2ca3ede74a06c821d7a12eaf493"
+    },
+    {
+      "file": "images/abo/03.png",
+      "width": 1086,
+      "height": 1448,
+      "sha256": "4eee3c33c34781c3cdef4ad0cd9f59d08b33c414eec8bed27bf9c4f8cfdee5f3"
+    }
+  ]
+}
